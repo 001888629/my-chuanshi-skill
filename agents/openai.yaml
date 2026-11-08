@@ -1,0 +1,4 @@
+interface:
+  display_name: "my chuanshi skill"
+  short_description: "先询问写新稿还是修改，核实川师近期事实与真实图片，输出300字以内、宋体规范的推文策划"
+  default_prompt: "使用 $my-chuanshi-skill，先问我是修改现有策划案还是写新策划案，再按对应流程处理；每篇不超过300字，附图可有可无但不得编造，不懂之处先问我。"
